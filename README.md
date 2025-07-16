@@ -43,18 +43,19 @@ In this version we are not accounting for a scenario where the freezer is runnin
 ## possible loop and functions
 
 **loop**
-wait 60 seconds
-check state (returns 3 char code [H,M,L,V][W,C,V][Y,N])
-switch based on state - turn on and off the correct circuits
+
+- wait 60 seconds
+- check state (returns 3 char code [H,M,L,V][W,C,V][Y,N])
+- switch based on state - turn on and off the correct circuits
 
 **functions**
-getBatterYReading
-getFreezerTemp
-getExcessState
-aux([on,off])
-freezer([on,off])
-lights([on,off])
-wallSockets([on,off])
-pumps([on,off])
-extraBatteries([on,off])
+- getBatterYReading
+- getFreezerTemp
+- getExcessState
+- aux([on,off])
+- freezer([on,off])
+- lights([on,off])
+- wallSockets([on,off])
+- pumps([on,off])
+- extraBatteries([on,off])
 
