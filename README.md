@@ -55,4 +55,5 @@ In this version we are not accounting for a scenario where the freezer is runnin
 - wallSockets([on,off])
 - pumps([on,off])
 - extraBatteries([on,off])
+- powerDown (switches off everything including the inverter and arduino itself)
 
