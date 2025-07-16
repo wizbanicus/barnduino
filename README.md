@@ -1,8 +1,6 @@
 # barnduino
 
-arduino project for barn
-The purpose is to enable more use of available sunlight without adding batteries and without basing decisions on time of day and enabling users to use power withotu having to think too much as the parameters would be set for them by the system (based on their prefered needs - see table for this)
-First up we set the rules. Define what we want to measure and the power scenarios. I'll put them in a table then we make some code to handle each scenario. 
+Arduino project for barn. The purpose is to enable more use of available sunlight without adding batteries and without basing decisions on time of day. Also aims at enabling users to use power without having to think too much (just general conservation e.g. turn off what your aren't using) as the parameters would be set for them by the system (based on their prefered needs - see table for this). First up we set the rules, define what we want to measure, and set the power scenarios. I'll put them in a table then we can make some code to handle each scenario. 
 
 ## measurables
 
