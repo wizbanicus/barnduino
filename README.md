@@ -27,6 +27,7 @@ First up we set the rules. Define what we want to measure and the power scenario
 **These are up for debate**
 It suggests that the most important thing is Aux lighting, second is keepiong food cold, third is lighting and electronics, fourth is shower, fourth is keeping freezer very cold, fifth is extra batter storage 
 | **battery** |          |            |            |        |          |            |
+| ---         | ---      | ---        | ---        | ---    | ---      | ---        |
 | high        | A+F+L+W  | A+F+L+W+P  | A+L+W+P+B  |   A+F  |  A+L+W+P |   A+L+W+P  |
 | meduim      | A+F+L+W  | A+F+L+W+P  | A+L+W+P+B  |   A+F  |  A+L+W   |   A+L+W    |
 | low         | A+F      | A+L+W      | A+L+W      |   A    |  A       |   A        |
