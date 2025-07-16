@@ -42,16 +42,15 @@ In this version we are not accounting for a scenario where the freezer is runnin
 
 ## possible loop and functions
 
-**loop**
-
+**main loop**
 - wait 60 seconds
 - check state (returns 3 char code [H,M,L,V][W,C,V][Y,N])
 - switch based on state - turn on and off the correct circuits
 
 **functions**
-- getBatterYReading
-- getFreezerTemp
-- getExcessState
+- getBatteryReading(returns char [H,M,L,V])
+- getFreezerTemp(returns char [W,C,V])
+- getExcessState(returns char [Y,N])
 - aux([on,off])
 - freezer([on,off])
 - lights([on,off])
